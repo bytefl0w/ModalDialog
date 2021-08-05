@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModalDialog", "ModalDialog\ModalDialog.csproj", "{331FE051-B07D-4114-A063-1454F93EAB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331FE051-B07D-4114-A063-1454F93EAB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331FE051-B07D-4114-A063-1454F93EAB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331FE051-B07D-4114-A063-1454F93EAB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331FE051-B07D-4114-A063-1454F93EAB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E333AED-8330-42F7-B803-95C712CCA94E}
+	EndGlobalSection
+EndGlobal
